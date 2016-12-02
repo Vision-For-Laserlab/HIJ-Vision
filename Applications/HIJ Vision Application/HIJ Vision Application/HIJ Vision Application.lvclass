@@ -20,6 +20,7 @@
 </Property>
 	<Property Name="NI.LVClass.IsTransferClass" Type="Bool">false</Property>
 	<Property Name="NI.LVClass.ParentClassLinkInfo" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"_!!!!!B.7;76X97*M:5&amp;D&gt;'^S,GRW&lt;'FC&amp;6:J:8&gt;B9GRF17.U&lt;X)O&lt;(:D&lt;'&amp;T=V"53$!!!!")!!%!#1!!!!!!#V.I98*F:#"$&lt;W2F$F:J:8&gt;B9GRF)%&amp;D&gt;'^S$6:J:8&gt;B9GRF17.U&lt;X)66GFF&gt;W&amp;C&lt;'6"9X2P=CZM&gt;G.M98.T!!!!!!</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="HIJ Vision Application.ctl" Type="Class Private Data" URL="HIJ Vision Application.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
@@ -70,9 +71,9 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1107820544</Property>
 			</Item>
 		</Item>
-		<Item Name="Child Actor Core" Type="Property Definition">
-			<Property Name="NI.ClassItem.Property.LongName" Type="Str">Child Actor Core</Property>
-			<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Child Actor Core</Property>
+		<Item Name="Child VI ref" Type="Property Definition">
+			<Property Name="NI.ClassItem.Property.LongName" Type="Str">Child VI ref</Property>
+			<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Child VI ref</Property>
 			<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
 			<Item Name="Read Child Actor Core.vi" Type="VI" URL="../Read Child Actor Core.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'K!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"Z!=!!)!!!!!A!!%%.I;7RE)%&amp;D&gt;'^S)%.P=G5!!'*!=!!?!!!^(%B*3C"7;8.J&lt;WYA18"Q&lt;'FD982J&lt;WYO&lt;(:M;7)?3%F+)&amp;:J=WFP&lt;C""=("M;7.B&gt;'FP&lt;CZM&gt;G.M98.T!"J)35IA6GFT;7^O)%&amp;Q='RJ9W&amp;U;7^O)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"A1(!!(A!!02R)35IA6GFT;7^O)%&amp;Q='RJ9W&amp;U;7^O,GRW&lt;'FC(EB*3C"7;8.J&lt;WYA18"Q&lt;'FD982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!:3%F+)&amp;:J=WFP&lt;C""=("M;7.B&gt;'FP&lt;C"J&lt;A"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!)!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!*!!!!!!</Property>
@@ -172,6 +173,25 @@
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+	</Item>
+	<Item Name="New Results.vi" Type="VI" URL="../New Results.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*'!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;Z!=!!?!!!^(%B*3C"7;8.J&lt;WYA18"Q&lt;'FD982J&lt;WYO&lt;(:M;7)?3%F+)&amp;:J=WFP&lt;C""=("M;7.B&gt;'FP&lt;CZM&gt;G.M98.T!"&gt;-986O9WAA35V"53"%;8.Q&lt;'&amp;Z)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%:!=!!?!!!?(%&amp;O97RZ?G5A5G6T&gt;7RU=S"#98.F,GRW9WRB=X-!!"R"&lt;G&amp;M?8JF)&amp;*F=X6M&gt;(-A1G&amp;T:3ZM&gt;G.M98.T!!!91%!!!@````]!"QJ3:8.V&lt;(2T)%FO!!"+1(!!(A!!)"Z"&lt;G&amp;M?8JF)&amp;"B=G&amp;N:82F=C"#98.F,GRW9WRB=X-!!"Z"&lt;G&amp;M?8JF)&amp;"B=G&amp;N:82F=C"#98.F,GRW9WRB=X-!!"B!1!!"`````Q!*#F"B=G&amp;N:82F=H-!!&amp;Z!=!!?!!!^(%B*3C"7;8.J&lt;WYA18"Q&lt;'FD982J&lt;WYO&lt;(:M;7)?3%F+)&amp;:J=WFP&lt;C""=("M;7.B&gt;'FP&lt;CZM&gt;G.M98.T!":-986O9WAA35V"53"%;8.Q&lt;'&amp;Z)'FO!!"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!)!!I!#Q-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!AA!!!))!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1879581200</Property>
+	</Item>
+	<Item Name="New Results (to override).vi" Type="VI" URL="../New Results (to override).vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)Z!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;Z!=!!?!!!^(%B*3C"7;8.J&lt;WYA18"Q&lt;'FD982J&lt;WYO&lt;(:M;7)?3%F+)&amp;:J=WFP&lt;C""=("M;7.B&gt;'FP&lt;CZM&gt;G.M98.T!"&gt;-986O9WAA35V"53"%;8.Q&lt;'&amp;Z)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%:!=!!?!!!?(%&amp;O97RZ?G5A5G6T&gt;7RU=S"#98.F,GRW9WRB=X-!!"R"&lt;G&amp;M?8JF)&amp;*F=X6M&gt;(-A1G&amp;T:3ZM&gt;G.M98.T!!!91%!!!@````]!"QJ3:8.V&lt;(2T)%FO!!"+1(!!(A!!)"Z"&lt;G&amp;M?8JF)&amp;"B=G&amp;N:82F=C"#98.F,GRW9WRB=X-!!"Z"&lt;G&amp;M?8JF)&amp;"B=G&amp;N:82F=C"#98.F,GRW9WRB=X-!!"B!1!!"`````Q!*#F"B=G&amp;N:82F=H-!!&amp;Z!=!!?!!!^(%B*3C"7;8.J&lt;WYA18"Q&lt;'FD982J&lt;WYO&lt;(:M;7)?3%F+)&amp;:J=WFP&lt;C""=("M;7.B&gt;'FP&lt;CZM&gt;G.M98.T!":-986O9WAA35V"53"%;8.Q&lt;'&amp;Z)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!)!!I!#Q)!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!AA!!!))!!!!E!!!!!!"!!Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 	<Item Name="Write Image Prefix.vi" Type="VI" URL="../Write Image Prefix.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'=!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!'*!=!!?!!!^(%B*3C"7;8.J&lt;WYA18"Q&lt;'FD982J&lt;WYO&lt;(:M;7)?3%F+)&amp;:J=WFP&lt;C""=("M;7.B&gt;'FP&lt;CZM&gt;G.M98.T!"J)35IA6GFT;7^O)%&amp;Q='RJ9W&amp;U;7^O)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!11$$`````"V"S:7:J?!I!9%"Q!"Y!!$U=3%F+)&amp;:J=WFP&lt;C""=("M;7.B&gt;'FP&lt;CZM&gt;GRJ9BZ)35IA6GFT;7^O)%&amp;Q='RJ9W&amp;U;7^O,GRW9WRB=X-!'5B*3C"7;8.J&lt;WYA18"Q&lt;'FD982J&lt;WYA;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!##!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>

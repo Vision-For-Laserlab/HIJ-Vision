@@ -8,6 +8,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="After Launch Init Msg.lvclass" Type="LVClass" URL="../HIJ Vision Application Messages/After Launch Init Msg/After Launch Init Msg.lvclass"/>
 		<Item Name="New Results Msg.lvclass" Type="LVClass" URL="../HIJ Vision Application Messages/New Results Msg/New Results Msg.lvclass"/>
+		<Item Name="Set Parameter Msg.lvclass" Type="LVClass" URL="../HIJ Vision Application Messages/Set Parameter Msg/Set Parameter Msg.lvclass"/>
 		<Item Name="Write Image Prefix Msg.lvclass" Type="LVClass" URL="../HIJ Vision Application Messages/Write Image Prefix Msg/Write Image Prefix Msg.lvclass"/>
 		<Item Name="Write WorkDir Msg.lvclass" Type="LVClass" URL="../HIJ Vision Application Messages/Write WorkDir Msg/Write WorkDir Msg.lvclass"/>
 	</Item>

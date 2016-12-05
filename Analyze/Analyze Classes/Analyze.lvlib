@@ -13,4 +13,5 @@
 	<Item Name="Width Method.ctl" Type="VI" URL="../Width Method.ctl"/>
 	<Item Name="Analyze FF Spectrum.lvclass" Type="LVClass" URL="../Analyze FF Spectrum/Analyze FF Spectrum.lvclass"/>
 	<Item Name="Analyze SecondMomentum.lvclass" Type="LVClass" URL="../Analyze SecondMomentum/Analyze SecondMomentum.lvclass"/>
+	<Item Name="Analyze Total Counts.lvclass" Type="LVClass" URL="../Analyze Total Counts/Analyze Total Counts.lvclass"/>
 </Library>

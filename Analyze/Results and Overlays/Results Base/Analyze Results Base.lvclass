@@ -154,15 +154,6 @@
 			</Item>
 		</Item>
 	</Item>
-	<Item Name="Copy Overlay Settings.vi" Type="VI" URL="../Copy Overlay Settings.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;Q!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%*!=!!?!!!?(%&amp;O97RZ?G5A5G6T&gt;7RU=S"#98.F,GRW9WRB=X-!!"B"&lt;G&amp;M?8JF)&amp;*F=X6M&gt;(-A1G&amp;T:3"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!-%"Q!"Y!!"Y=17ZB&lt;(F[:3"3:8.V&lt;(2T)%*B=W5O&lt;(:D&lt;'&amp;T=Q!!"F.P&gt;8*D:1!!.%"Q!"Y!!"Y=17ZB&lt;(F[:3"3:8.V&lt;(2T)%*B=W5O&lt;(:D&lt;'&amp;T=Q!!#U2F=X2J&lt;G&amp;U;7^O!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!)!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!A!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!E!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1074266640</Property>
-	</Item>
 	<Item Name="Overlay.vi" Type="VI" URL="../Overlay.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(^!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#!!.`````]!"21!A!!!!!!"!!1!!!!"!!!!!!!!!!!!6Q$R!!!!!!!!!!%/35V"53"*&lt;7&amp;H:3ZD&gt;'Q!1%"Q!"U*35V"55FN97&gt;F!!%!"1F*45&amp;237VB:W55!)!!!!!!!1!%!!!!!1!!!!!!!!F*&lt;7&amp;H:3"P&gt;81!/E"Q!"Y!!"Y=17ZB&lt;(F[:3"3:8.V&lt;(2T)%*B=W5O&lt;(:D&lt;'&amp;T=Q!!%%^W:8*M98EA1G&amp;T:3"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!6Q$R!!!!!!!!!!%/35V"53"*&lt;7&amp;H:3ZD&gt;'Q!1%"Q!"U*35V"55FN97&gt;F!!%!"1F*45&amp;237VB:W55!)!!!!!!!1!%!!!!!1!!!!!!!!B*&lt;7&amp;H:3"*&lt;A!!/%"Q!"Y!!"Y=17ZB&lt;(F[:3"3:8.V&lt;(2T)%*B=W5O&lt;(:D&lt;'&amp;T=Q!!$U^W:8*M98EA1G&amp;T:3"J&lt;A"5!0!!$!!$!!1!"A!(!!1!"!!%!!1!#!!%!!E!#A-!!(A!!!U)!!!!!!!!$1I!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!+!!!!EA!!!!!"!!M!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

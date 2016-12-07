@@ -216,15 +216,6 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
-	<Item Name="Get Short Class Name.vi" Type="VI" URL="../Get Short Class Name.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'&lt;!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"Z!-0````]64G&amp;N:3"G&lt;X)A1W^O&gt;'6Y&gt;#"N:7ZV!'"!=!!?!!""$5&amp;O97RZ?G5O&lt;(:M;7)817ZB&lt;(F[:3"#98.F1WRB=X-O&lt;(:M;7):17ZB&lt;(F[:3"#98.F1WRB=X-O&lt;(:D&lt;'&amp;T=Q!617ZB&lt;(F[:3"#98.F1WRB=X-A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!9%"Q!"Y!!%%.17ZB&lt;(F[:3ZM&gt;GRJ9B&gt;"&lt;G&amp;M?8JF)%*B=W6$&lt;'&amp;T=SZM&gt;GRJ9BF"&lt;G&amp;M?8JF)%*B=W6$&lt;'&amp;T=SZM&gt;G.M98.T!"2"&lt;G&amp;M?8JF)%*B=W6$&lt;'&amp;T=S"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*!!!!!!!1!*!!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082929680</Property>
-	</Item>
 	<Item Name="Get Parameters.vi" Type="VI" URL="../Get Parameters.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'2!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"2!5QZ198*B&lt;76U:8*T)'^V&gt;!!!9%"Q!"Y!!%%.17ZB&lt;(F[:3ZM&gt;GRJ9B&gt;"&lt;G&amp;M?8JF)%*B=W6$&lt;'&amp;T=SZM&gt;GRJ9BF"&lt;G&amp;M?8JF)%*B=W6$&lt;'&amp;T=SZM&gt;G.M98.T!"6"&lt;G&amp;M?8JF)%*B=W6$&lt;'&amp;T=S"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"A1(!!(A!!11V"&lt;G&amp;M?8JF,GRW&lt;'FC&amp;U&amp;O97RZ?G5A1G&amp;T:5.M98.T,GRW&lt;'FC'5&amp;O97RZ?G5A1G&amp;T:5.M98.T,GRW9WRB=X-!&amp;%&amp;O97RZ?G5A1G&amp;T:5.M98.T)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!)!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!E!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

@@ -7,7 +7,6 @@
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="New Image Msg.lvclass" Type="LVClass" URL="../AF IMAQ Display Messages/New Image Msg/New Image Msg.lvclass"/>
-		<Item Name="Save Image Msg.lvclass" Type="LVClass" URL="../AF IMAQ Display Messages/Save Image Msg/Save Image Msg.lvclass"/>
 		<Item Name="Set BG Image Msg.lvclass" Type="LVClass" URL="../AF IMAQ Display Messages/Write BG Image Msg/Set BG Image Msg.lvclass"/>
 		<Item Name="Toggle Sub BG Msg.lvclass" Type="LVClass" URL="../AF IMAQ Display Messages/Toggle Sub BG Msg/Toggle Sub BG Msg.lvclass"/>
 		<Item Name="Write ConfigDir Msg.lvclass" Type="LVClass" URL="../AF IMAQ Display Messages/Write ConfigDir Msg/Write ConfigDir Msg.lvclass"/>

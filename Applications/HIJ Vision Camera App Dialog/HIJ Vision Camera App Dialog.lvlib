@@ -6,6 +6,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Sequence State Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Dialog Messages/Sequence State Msg/Sequence State Msg.lvclass"/>
 		<Item Name="Update Data befor stop Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Dialog Messages/Update Data befor stop Msg/Update Data befor stop Msg.lvclass"/>
 	</Item>
 	<Item Name="HIJ Vision Camera App Dialog.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Dialog/HIJ Vision Camera App Dialog.lvclass"/>

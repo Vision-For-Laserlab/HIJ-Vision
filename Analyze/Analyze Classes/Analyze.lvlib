@@ -5,13 +5,16 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Analyze BaseClass.lvlib" Type="Library" URL="../Analyze BaseClass/Analyze BaseClass.lvlib"/>
-	<Item Name="Analyze q-Factor.lvclass" Type="LVClass" URL="../Analyze Q-Factor/Analyze q-Factor.lvclass"/>
-	<Item Name="Analyze Fluence.lvclass" Type="LVClass" URL="../Analyze Fluence/Analyze Fluence.lvclass"/>
-	<Item Name="Analyze Distanz.lvclass" Type="LVClass" URL="../Analyze Distanz/Analyze Distanz.lvclass"/>
-	<Item Name="Analyze SHG-AK.lvclass" Type="LVClass" URL="../Analyze SHG-AK/Analyze SHG-AK.lvclass"/>
+	<Item Name="Analyze Compound Analysis Base.lvclass" Type="LVClass" URL="../Analyze Compound Analysis Base/Analyze Compound Analysis Base.lvclass"/>
 	<Item Name="Analyze BeamDeviation.lvclass" Type="LVClass" URL="../Analyze Diviation/Analyze BeamDeviation.lvclass"/>
-	<Item Name="Width Method.ctl" Type="VI" URL="../Width Method.ctl"/>
+	<Item Name="Analyze Distanz.lvclass" Type="LVClass" URL="../Analyze Distanz/Analyze Distanz.lvclass"/>
+	<Item Name="Analyze Energy.lvclass" Type="LVClass" URL="../Analyze Energy/Analyze Energy.lvclass"/>
 	<Item Name="Analyze FF Spectrum.lvclass" Type="LVClass" URL="../Analyze FF Spectrum/Analyze FF Spectrum.lvclass"/>
+	<Item Name="Analyze Fluence.lvclass" Type="LVClass" URL="../Analyze Fluence/Analyze Fluence.lvclass"/>
+	<Item Name="Analyze Fluence and Energy.lvclass" Type="LVClass" URL="../Analyze Fluence and Energy/Analyze Fluence and Energy.lvclass"/>
+	<Item Name="Analyze q-Factor.lvclass" Type="LVClass" URL="../Analyze Q-Factor/Analyze q-Factor.lvclass"/>
+	<Item Name="Analyze SHG-AK.lvclass" Type="LVClass" URL="../Analyze SHG-AK/Analyze SHG-AK.lvclass"/>
 	<Item Name="Analyze SecondMomentum.lvclass" Type="LVClass" URL="../Analyze SecondMomentum/Analyze SecondMomentum.lvclass"/>
 	<Item Name="Analyze Total Counts.lvclass" Type="LVClass" URL="../Analyze Total Counts/Analyze Total Counts.lvclass"/>
+	<Item Name="Width Method.ctl" Type="VI" URL="../Width Method.ctl"/>
 </Library>

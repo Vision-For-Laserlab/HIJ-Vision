@@ -34,7 +34,9 @@
 	<Property Name="Serialized ACL" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Calibrate Msg.lvclass" Type="LVClass" URL="../HIJ Vision App Fluence and Energy Camera Messages/Calibrate Msg/Calibrate Msg.lvclass"/>
+	</Item>
 	<Item Name="HIJ Vision App Fluence and Energy Camera.lvclass" Type="LVClass" URL="../HIJ Vision App Fluence and Energy Camera/HIJ Vision App Fluence and Energy Camera.lvclass"/>
 	<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 </Library>

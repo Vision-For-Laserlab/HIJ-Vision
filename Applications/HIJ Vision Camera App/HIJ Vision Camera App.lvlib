@@ -8,7 +8,6 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Change Camera Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Change Camera Msg/Change Camera Msg.lvclass"/>
 		<Item Name="Menu Selection Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Menu Selection Msg/Menu Selection Msg.lvclass"/>
-		<Item Name="new results Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/new results Msg/new results Msg.lvclass"/>
 		<Item Name="Save Sequence Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Save Sequence Msg/Save Sequence Msg.lvclass"/>
 		<Item Name="Start Aquisition Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Start Aquisition Msg/Start Aquisition Msg.lvclass"/>
 		<Item Name="Stop Aquisition Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Stop Aquisition Msg/Stop Aquisition Msg.lvclass"/>

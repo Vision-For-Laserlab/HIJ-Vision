@@ -19,7 +19,7 @@
 
 </Property>
 	<Property Name="NI.LVClass.IsTransferClass" Type="Bool">false</Property>
-	<Property Name="NI.LVClass.ParentClassLinkInfo" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"^!!!!!B.7;76X97*M:5&amp;D&gt;'^S,GRW&lt;'FC&amp;6:J:8&gt;B9GRF17.U&lt;X)O&lt;(:D&lt;'&amp;T=V"53$!!!!"(!!%!#!!!!!!,5WBB=G6E)%.P:'5/6GFF&gt;W&amp;C&lt;'5A17.U&lt;X).6GFF&gt;W&amp;C&lt;'6"9X2P=B67;76X97*M:5&amp;D&gt;'^S,GRW9WRB=X-!!!!!</Property>
+	<Property Name="NI.LVClass.ParentClassLinkInfo" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"_!!!!!B.7;76X97*M:5&amp;D&gt;'^S,GRW&lt;'FC&amp;6:J:8&gt;B9GRF17.U&lt;X)O&lt;(:D&lt;'&amp;T=V"53$!!!!")!!%!#1!!!!!!#V.I98*F:#"$&lt;W2F$F:J:8&gt;B9GRF)%&amp;D&gt;'^S$6:J:8&gt;B9GRF17.U&lt;X)66GFF&gt;W&amp;C&lt;'6"9X2P=CZM&gt;G.M98.T!!!!!!</Property>
 	<Item Name="Camera Display.ctl" Type="Class Private Data" URL="Camera Display.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>

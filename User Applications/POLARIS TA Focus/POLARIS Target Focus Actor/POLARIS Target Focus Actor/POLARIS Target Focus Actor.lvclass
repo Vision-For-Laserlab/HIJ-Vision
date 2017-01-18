@@ -71,13 +71,13 @@
 			<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Pulse duration [fs]</Property>
 			<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
 			<Item Name="Write Pulse duration [fs].vi" Type="VI" URL="../Write Pulse duration [fs].vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'^!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!'Z!=!!?!!"&amp;)&amp;"04%&amp;336-A6'&amp;S:W6U)%:P9X6T)%&amp;D&gt;'^S,GRW&lt;'FC)F"04%&amp;336-A6'&amp;S:W6U)%:P9X6T)%&amp;D&gt;'^S,GRW9WRB=X-!(F"04%&amp;336-A6'&amp;S:W6U)%:P9X6T)%&amp;D&gt;'^S)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!:1!I!%V"V&lt;(.F)'2V=G&amp;U;7^O)&amp;NG=VU!&lt;%"Q!"Y!!%5A5%^-16**5S"598*H:81A2G^D&gt;8-A17.U&lt;X)O&lt;(:M;7)C5%^-16**5S"598*H:81A2G^D&gt;8-A17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!&gt;5%^-16**5S"598*H:81A2G^D&gt;8-A17.U&lt;X)A;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A#!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!($!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!'Z!=!!?!!"&amp;)&amp;"04%&amp;336-A6'&amp;S:W6U)%:P9X6T)%&amp;D&gt;'^S,GRW&lt;'FC)F"04%&amp;336-A6'&amp;S:W6U)%:P9X6T)%&amp;D&gt;'^S,GRW9WRB=X-!(F"04%&amp;336-A6'&amp;S:W6U)%:P9X6T)%&amp;D&gt;'^S)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!@1"I!!1!#!!%!%V"V&lt;(.F)'2V=G&amp;U;7^O)&amp;NG=VU!&lt;%"Q!"Y!!%5A5%^-16**5S"598*H:81A2G^D&gt;8-A17.U&lt;X)O&lt;(:M;7)C5%^-16**5S"598*H:81A2G^D&gt;8-A17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!&gt;5%^-16**5S"598*H:81A2G^D&gt;8-A17.U&lt;X)A;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A#!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107820544</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">8388608</Property>
 			</Item>
 		</Item>
 		<Item Name="Size of hot Region" Type="Property Definition">

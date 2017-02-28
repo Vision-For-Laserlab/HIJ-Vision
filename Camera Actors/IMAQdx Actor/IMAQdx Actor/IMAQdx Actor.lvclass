@@ -45,15 +45,6 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1107825168</Property>
 		</Item>
-		<Item Name="Publish Image.vi" Type="VI" URL="../Publish Image.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(*!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%2!=!!?!!!J%EF.16&amp;E?#""9X2P=CZM&gt;GRJ9B2*45&amp;2:(AA17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!135V"572Y)%&amp;D&gt;'^S)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!41!=!$5*V:G:F=C"/&gt;7VC:8)!)!!X`````Q!&amp;&amp;!#!!!!!!!%!"!!!!!%!!!!!!!!!!!"4!0%!!!!!!!!!!1Z*45&amp;2)%FN97&gt;F,G.U&lt;!!]1(!!(1F*45&amp;237VB:W5!!1!)#5F.16&amp;*&lt;7&amp;H:21!A!!!!!!"!!1!!!!"!!!!!!!!"5FN97&gt;F!%*!=!!?!!!J%EF.16&amp;E?#""9X2P=CZM&gt;GRJ9B2*45&amp;2:(AA17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!035V"572Y)%&amp;D&gt;'^S)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!=!#1!+!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!#!!!!!A!!!#1!!!!!!%!#Q!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
-		</Item>
 		<Item Name="Start Acquisition.vi" Type="VI" URL="../Start Acquisition.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;8!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%2!=!!?!!!J%EF.16&amp;E?#""9X2P=CZM&gt;GRJ9B2*45&amp;2:(AA17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!135V"572Y)%&amp;D&gt;'^S)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51$$`````#U.B&lt;76S93"/97VF!%*!=!!?!!!J%EF.16&amp;E?#""9X2P=CZM&gt;GRJ9B2*45&amp;2:(AA17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!035V"572Y)%&amp;D&gt;'^S)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!)!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!"!!!!#3!!!!!!%!#1!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

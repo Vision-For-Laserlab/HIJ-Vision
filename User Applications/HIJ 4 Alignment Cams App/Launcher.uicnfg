@@ -1,0 +1,7 @@
+[HIJ IMAQdx Camera Viewer]
+Config Dir = "/C/Users/user/Desktop/test/ConfigDir"
+Work Dir = "/C/Users/user/Desktop/test/WorkDir"
+Camera 4 = "Cam 4"
+Camera 3 = "Cam 3"
+Camera 2 = "Cam 2"
+Camera 1 = "TestCam"

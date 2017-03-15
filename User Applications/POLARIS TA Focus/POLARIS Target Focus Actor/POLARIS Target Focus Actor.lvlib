@@ -8,5 +8,5 @@
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder"/>
 	<Item Name="POLARIS Target Focus Actor.lvclass" Type="LVClass" URL="../POLARIS Target Focus Actor/POLARIS Target Focus Actor.lvclass"/>
-	<Item Name="Launch POLARIS TA Focus.vi" Type="VI" URL="../Launch POLARIS TA Focus.vi"/>
+	<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 </Library>

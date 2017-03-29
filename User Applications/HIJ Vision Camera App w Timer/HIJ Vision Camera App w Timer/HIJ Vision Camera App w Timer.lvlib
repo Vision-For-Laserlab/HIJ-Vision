@@ -36,6 +36,7 @@
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Decrement ShotCounter Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App w Timer Messages/Decrement ShotCounter Msg/Decrement ShotCounter Msg.lvclass"/>
+		<Item Name="New Results Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App w Timer Messages/New Results Msg/New Results Msg.lvclass"/>
 	</Item>
 	<Item Name="HIJ Vision Camera App w Timer.lvclass" Type="LVClass" URL="../HIJ Vision Camera App w Timer/HIJ Vision Camera App w Timer.lvclass"/>
 	<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>

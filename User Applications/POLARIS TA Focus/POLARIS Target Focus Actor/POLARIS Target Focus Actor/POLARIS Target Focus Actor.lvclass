@@ -105,6 +105,7 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1107825168</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
+	<Item Name="Menu.rtm" Type="Document" URL="../Menu.rtm"/>
 	<Item Name="New Results (to override).vi" Type="VI" URL="../New Results (to override).vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*G!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!'Z!=!!?!!"&amp;)&amp;"04%&amp;336-A6'&amp;S:W6U)%:P9X6T)%&amp;D&gt;'^S,GRW&lt;'FC)F"04%&amp;336-A6'&amp;S:W6U)%:P9X6T)%&amp;D&gt;'^S,GRW9WRB=X-!(F"04%&amp;336-A6'&amp;S:W6U)%:P9X6T)%&amp;D&gt;'^S)%^V&gt;!!!$U!$!!F*&lt;7&amp;H:3"/=CY!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"'1(!!(A!!(BR"&lt;G&amp;M?8JF)&amp;*F=X6M&gt;(-A1G&amp;T:3ZM&gt;G.M98.T!!!=17ZB&lt;(F[:3"3:8.V&lt;(2T)%*B=W5O&lt;(:D&lt;'&amp;T=Q!!'%"!!!(`````!!A+5G6T&gt;7RU=S"*&lt;A!!3E"Q!"Y!!#!?17ZB&lt;(F[:3"198*B&lt;76U:8)A1G&amp;T:3ZM&gt;G.M98.T!!!?17ZB&lt;(F[:3"198*B&lt;76U:8)A1G&amp;T:3ZM&gt;G.M98.T!!!91%!!!@````]!#AJ198*B&lt;76U:8*T!!"M1(!!(A!!23"14UR"5EF4)&amp;2B=G&gt;F&gt;#"'&lt;W.V=S""9X2P=CZM&gt;GRJ9C*14UR"5EF4)&amp;2B=G&gt;F&gt;#"'&lt;W.V=S""9X2P=CZM&gt;G.M98.T!"V14UR"5EF4)&amp;2B=G&gt;F&gt;#"'&lt;W.V=S""9X2P=C"*&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!9!"Q!*!!M!$!-!!(A!!!U)!!!!!!!!!!!!!)E!!!!!!!!!!!!!!!!!!!!1!!!!#A!!!B)!!!))!!!!EA!!!!!"!!U!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

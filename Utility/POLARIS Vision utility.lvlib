@@ -10,7 +10,6 @@
 </Property>
 	<Item Name="ROI from INI Section.vi" Type="VI" URL="../ROI from INI Section.vi"/>
 	<Item Name="ROI 2 INI Section.vi" Type="VI" URL="../ROI 2 INI Section.vi"/>
-	<Item Name="overlay helplines.vi" Type="VI" URL="../overlay helplines.vi"/>
 	<Item Name="save control values.vi" Type="VI" URL="../save control values.vi"/>
 	<Item Name="retrieve control values.vi" Type="VI" URL="../retrieve control values.vi"/>
 	<Item Name="UserPalette-xRainbows.vi" Type="VI" URL="../UserPalette-xRainbows.vi"/>

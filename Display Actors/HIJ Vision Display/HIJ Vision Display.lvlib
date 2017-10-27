@@ -4,7 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Abstract Messages for Caller" Type="Folder"/>
+	<Item Name="Abstract Messages for Caller" Type="Folder">
+		<Item Name="Show or Hide Quick Settings Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Show or Hide Quick Settings Msg/Show or Hide Quick Settings Msg.lvclass"/>
+	</Item>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Change Image Source Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Change Image Source Msg/Change Image Source Msg.lvclass"/>
 		<Item Name="Contex Menu Selection Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Contex Menu Selection Msg/Contex Menu Selection Msg.lvclass"/>
@@ -19,6 +21,7 @@
 		<Item Name="Send Reply Actor State.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Send Reply Actor State/Send Reply Actor State.lvclass"/>
 		<Item Name="Show Display Settings Dialog Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Show Display Settings Dialog Msg/Show Display Settings Dialog Msg.lvclass"/>
 		<Item Name="Show Image Source Settings Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Show Image Source Settings Msg/Show Image Source Settings Msg.lvclass"/>
+		<Item Name="Show or Hide QSettings Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Show or Hide QSettings Msg/Show or Hide QSettings Msg.lvclass"/>
 		<Item Name="Show Report Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Show Report Msg/Show Report Msg.lvclass"/>
 		<Item Name="Show ROI Name Dialog Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Show ROI Name Dialog Msg/Show ROI Name Dialog Msg.lvclass"/>
 		<Item Name="Show Select Report File Dialog Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Show Select Report File Dialog Msg/Show Select Report File Dialog Msg.lvclass"/>

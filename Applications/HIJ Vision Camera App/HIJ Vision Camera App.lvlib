@@ -6,9 +6,12 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Camera Quick Settings Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Camera Quick Settings Msg/Camera Quick Settings Msg.lvclass"/>
 		<Item Name="Change Camera Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Change Camera Msg/Change Camera Msg.lvclass"/>
 		<Item Name="Menu Selection Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Menu Selection Msg/Menu Selection Msg.lvclass"/>
+		<Item Name="Open Camera Quick Settings Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Open Camera Quick Settings Msg/Open Camera Quick Settings Msg.lvclass"/>
 		<Item Name="Save Sequence Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Save Sequence Msg/Save Sequence Msg.lvclass"/>
+		<Item Name="Set BG Image Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Set BG Image Msg/Set BG Image Msg.lvclass"/>
 		<Item Name="Start Aquisition Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Start Aquisition Msg/Start Aquisition Msg.lvclass"/>
 		<Item Name="Stop Aquisition Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Stop Aquisition Msg/Stop Aquisition Msg.lvclass"/>
 		<Item Name="Write ConfigDir Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Write ConfigDir Msg/Write ConfigDir Msg.lvclass"/>

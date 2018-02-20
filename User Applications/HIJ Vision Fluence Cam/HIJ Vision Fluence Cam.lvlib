@@ -35,7 +35,10 @@
 	<Property Name="Serialized ACL" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Set F Start Parameter Msg.lvclass" Type="LVClass" URL="../HIJ Vision Fluence Cam Launcher Messages/Set F Start Parameter Msg/Set F Start Parameter Msg.lvclass"/>
+	</Item>
 	<Item Name="HIJ Vision Fluence Cam.lvclass" Type="LVClass" URL="../HIJ Vision Fluence Cam/HIJ Vision Fluence Cam.lvclass"/>
+	<Item Name="HIJ Vision Fluence Cam Launcher.lvclass" Type="LVClass" URL="../Launcher/HIJ Vision Fluence Cam Launcher.lvclass"/>
 	<Item Name="Fluence Cam Launcher.vi" Type="VI" URL="../Fluence Cam Launcher.vi"/>
 </Library>

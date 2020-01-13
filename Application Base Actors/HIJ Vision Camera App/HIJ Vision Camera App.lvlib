@@ -8,6 +8,7 @@
 		<Item Name="Sequence State Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Sequence State Msg/Sequence State Msg.lvclass"/>
 	</Item>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Abort Sequence Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Abort Sequence Msg/Abort Sequence Msg.lvclass"/>
 		<Item Name="Camera Quick Settings Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Camera Quick Settings Msg/Camera Quick Settings Msg.lvclass"/>
 		<Item Name="Change Camera Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Change Camera Msg/Change Camera Msg.lvclass"/>
 		<Item Name="Launch Storage Actor Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Launch Storage Actor Msg/Launch Storage Actor Msg.lvclass"/>

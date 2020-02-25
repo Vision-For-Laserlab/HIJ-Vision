@@ -9,6 +9,9 @@
 		<Item Name="Set BG Image Msg.lvclass" Type="LVClass" URL="../AF IMAQ Display Messages/Write BG Image Msg/Set BG Image Msg.lvclass"/>
 		<Item Name="Toggle Sub BG Msg.lvclass" Type="LVClass" URL="../AF IMAQ Display Messages/Toggle Sub BG Msg/Toggle Sub BG Msg.lvclass"/>
 		<Item Name="Write ConfigDir Msg.lvclass" Type="LVClass" URL="../AF IMAQ Display Messages/Write ConfigDir Msg/Write ConfigDir Msg.lvclass"/>
+		<Item Name="Write Flip H Msg.lvclass" Type="LVClass" URL="../HIJ IMAQdx Display Messages/Write Flip H Msg/Write Flip H Msg.lvclass"/>
+		<Item Name="Write Flip V Msg.lvclass" Type="LVClass" URL="../HIJ IMAQdx Display Messages/Write Flip V Msg/Write Flip V Msg.lvclass"/>
+		<Item Name="Write Stretch X Msg.lvclass" Type="LVClass" URL="../HIJ IMAQdx Display Messages/Write Stretch X Msg/Write Stretch X Msg.lvclass"/>
 	</Item>
 	<Item Name="HIJ IMAQdx Display.lvclass" Type="LVClass" URL="../AF IMAQ Display/HIJ IMAQdx Display.lvclass"/>
 </Library>

@@ -9,5 +9,4 @@
 		<Item Name="open camera quick settings Msg.lvclass" Type="LVClass" URL="../IMAQdx Actor Messages/open camera quick settings Msg/open camera quick settings Msg.lvclass"/>
 	</Item>
 	<Item Name="IMAQdx Actor.lvclass" Type="LVClass" URL="../IMAQdx Actor/IMAQdx Actor.lvclass"/>
-	<Item Name="Operation Mode.ctl" Type="VI" URL="../IMAQdx Actor/Operation Mode.ctl"/>
 </Library>

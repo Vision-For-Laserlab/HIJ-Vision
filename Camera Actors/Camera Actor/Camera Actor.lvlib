@@ -8,11 +8,13 @@
 		<Item Name="New Image Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/New Image Msg/New Image Msg.lvclass"/>
 	</Item>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="After Launch Init Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/After Launch Init Msg/After Launch Init Msg.lvclass"/>
 		<Item Name="Change Camera Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/Change Camera Msg/Change Camera Msg.lvclass"/>
 		<Item Name="open camera settings Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/open camera settings Msg/open camera settings Msg.lvclass"/>
 		<Item Name="Publish Image Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/Publish Image Msg/Publish Image Msg.lvclass"/>
 		<Item Name="Start Acquisition Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/Start Acquisition Msg/Start Acquisition Msg.lvclass"/>
 		<Item Name="Stop Acquisition Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/Stop Acquisition Msg/Stop Acquisition Msg.lvclass"/>
+		<Item Name="StreamHoldOn Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/StreamHoldOn Msg/StreamHoldOn Msg.lvclass"/>
 		<Item Name="Write Parameter Filter Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/Write Parameter Filter Msg/Write Parameter Filter Msg.lvclass"/>
 		<Item Name="Write Receiver Params Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/Write Receiver Params Msg/Write Receiver Params Msg.lvclass"/>
 		<Item Name="Write Settings to Ini File.lvclass" Type="LVClass" URL="../Camera Actor Messages/Write Settings to Ini File/Write Settings to Ini File.lvclass"/>

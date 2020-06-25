@@ -6,6 +6,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder">
 		<Item Name="New Image Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/New Image Msg/New Image Msg.lvclass"/>
+		<Item Name="Publish Camera Settings Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/Publish Camera Settings Msg/Publish Camera Settings Msg.lvclass"/>
 	</Item>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="After Launch Init Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/After Launch Init Msg/After Launch Init Msg.lvclass"/>

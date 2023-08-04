@@ -13,7 +13,6 @@
 		<Item Name="Publish Image Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/Publish Image Msg/Publish Image Msg.lvclass"/>
 		<Item Name="Start Acquisition Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/Start Acquisition Msg/Start Acquisition Msg.lvclass"/>
 		<Item Name="Stop Acquisition Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/Stop Acquisition Msg/Stop Acquisition Msg.lvclass"/>
-		<Item Name="StreamHoldOn Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/StreamHoldOn Msg/StreamHoldOn Msg.lvclass"/>
 		<Item Name="Write Parameter Filter Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/Write Parameter Filter Msg/Write Parameter Filter Msg.lvclass"/>
 		<Item Name="Write Settings to Ini File.lvclass" Type="LVClass" URL="../Camera Actor Messages/Write Settings to Ini File/Write Settings to Ini File.lvclass"/>
 	</Item>

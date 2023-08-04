@@ -15,7 +15,6 @@
 		<Item Name="Load ROI from File Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Load ROI from File Msg/Load ROI from File Msg.lvclass"/>
 		<Item Name="Mouse Click Coords Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Mouse Click Coords Msg/Mouse Click Coords Msg.lvclass"/>
 		<Item Name="New Dispay Settings Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/New Dispay Settings Msg/New Dispay Settings Msg.lvclass"/>
-		<Item Name="New Image Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/New Image Msg/New Image Msg.lvclass"/>
 		<Item Name="New Results Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/New Results Msg/New Results Msg.lvclass"/>
 		<Item Name="New ROI and Overlay Selection Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/New ROI and Overlay Selection Msg/New ROI and Overlay Selection Msg.lvclass"/>
 		<Item Name="Save Image Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Save Image Msg/Save Image Msg.lvclass"/>

@@ -26,7 +26,6 @@
 		<Item Name="Show ROI Name Dialog Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Show ROI Name Dialog Msg/Show ROI Name Dialog Msg.lvclass"/>
 		<Item Name="Show Select Report File Dialog Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Show Select Report File Dialog Msg/Show Select Report File Dialog Msg.lvclass"/>
 		<Item Name="Update Static Overlay Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Update Static Overlay Msg/Update Static Overlay Msg.lvclass"/>
-		<Item Name="Write Analyze Enq Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Write Analyze Actor Msg/Write Analyze Enq Msg.lvclass"/>
 		<Item Name="Write Centroid Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Write Centroid Msg/Write Centroid Msg.lvclass"/>
 		<Item Name="Write Image Name Prefix Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Write Image Name Prefix Msg/Write Image Name Prefix Msg.lvclass"/>
 		<Item Name="Write ROI Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Write ROI Msg/Write ROI Msg.lvclass"/>

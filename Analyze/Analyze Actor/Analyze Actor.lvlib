@@ -4,15 +4,13 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Messages for this Actor" Type="Folder">
+	<Item Name="IF" Type="Folder">
 		<Item Name="Analysis Results Msg.lvclass" Type="LVClass" URL="../IAnalysis Messages/Analysis Results Msg/Analysis Results Msg.lvclass"/>
+		<Item Name="IAnalysis.lvclass" Type="LVClass" URL="../IAnalysis/IAnalysis.lvclass"/>
+	</Item>
+	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Analyze Msg.lvclass" Type="LVClass" URL="../Analyze Actor Messages/Analyze Msg/Analyze Msg.lvclass"/>
 		<Item Name="Load Parameters Msg.lvclass" Type="LVClass" URL="../Analyze Actor Messages/Load Parameters Msg/Load Parameters Msg.lvclass"/>
-		<Item Name="ping Msg.lvclass" Type="LVClass" URL="../Analyze Actor Messages/ping Msg/ping Msg.lvclass"/>
-		<Item Name="Set Analyze Parameter Msg.lvclass" Type="LVClass" URL="../Analyze Actor Messages/Set Analyze Parameter Msg/Set Analyze Parameter Msg.lvclass"/>
-		<Item Name="Set Result Settings Msg.lvclass" Type="LVClass" URL="../Analyze Actor Messages/Set Result Settings Msg/Set Result Settings Msg.lvclass"/>
 	</Item>
 	<Item Name="Analyze Actor.lvclass" Type="LVClass" URL="../Analyze Actor/Analyze Actor.lvclass"/>
-	<Item Name="IAnalysis.lvclass" Type="LVClass" URL="../IAnalysis/IAnalysis.lvclass"/>
 </Library>

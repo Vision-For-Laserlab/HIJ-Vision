@@ -23,4 +23,5 @@
 	</Item>
 	<Item Name="Camera Actor.lvclass" Type="LVClass" URL="../Camera Actor/Camera Actor.lvclass"/>
 	<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
+	<Item Name="Camera Attribute Info.ctl" Type="VI" URL="../Camera Actor/Camera Attribute Info.ctl"/>
 </Library>

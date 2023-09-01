@@ -15,10 +15,14 @@
 		<Item Name="Stop Acquisition Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/Stop Acquisition Msg/Stop Acquisition Msg.lvclass"/>
 		<Item Name="Write Parameter Filter Msg.lvclass" Type="LVClass" URL="../Camera Actor Messages/Write Parameter Filter Msg/Write Parameter Filter Msg.lvclass"/>
 		<Item Name="Write Settings to Ini File.lvclass" Type="LVClass" URL="../Camera Actor Messages/Write Settings to Ini File/Write Settings to Ini File.lvclass"/>
+		<Item Name="Acquisition Started Msg.lvclass" Type="LVClass" URL="../ICamera Messages/Acquisition Started Msg/Acquisition Started Msg.lvclass"/>
 	</Item>
 	<Item Name="IF" Type="Folder">
-		<Item Name="Camera Settings Msg.lvclass" Type="LVClass" URL="../ICamera Messages/Camera Settings Msg/Camera Settings Msg.lvclass"/>
-		<Item Name="New Image Msg.lvclass" Type="LVClass" URL="../ICamera Messages/New Image Msg/New Image Msg.lvclass"/>
+		<Item Name="Messages for IF" Type="Folder">
+			<Item Name="Camera Settings Msg.lvclass" Type="LVClass" URL="../ICamera Messages/Camera Settings Msg/Camera Settings Msg.lvclass"/>
+			<Item Name="New Image Msg.lvclass" Type="LVClass" URL="../ICamera Messages/New Image Msg/New Image Msg.lvclass"/>
+			<Item Name="Acquisition Stoped Msg.lvclass" Type="LVClass" URL="../ICamera Messages/Acquisition Stoped Msg/Acquisition Stoped Msg.lvclass"/>
+		</Item>
 		<Item Name="ICamera.lvclass" Type="LVClass" URL="../ICamera/ICamera.lvclass"/>
 	</Item>
 	<Item Name="Camera Actor.lvclass" Type="LVClass" URL="../Camera Actor/Camera Actor.lvclass"/>

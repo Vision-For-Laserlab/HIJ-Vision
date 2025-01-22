@@ -29,6 +29,7 @@
 		<Item Name="Write Centroid Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Write Centroid Msg/Write Centroid Msg.lvclass"/>
 		<Item Name="Write Image Name Prefix Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Write Image Name Prefix Msg/Write Image Name Prefix Msg.lvclass"/>
 		<Item Name="Write ROI Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Write ROI Msg/Write ROI Msg.lvclass"/>
+		<Item Name="Write ShotID Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Write ShotID Msg/Write ShotID Msg.lvclass"/>
 		<Item Name="Write WorkDir Msg.lvclass" Type="LVClass" URL="../HIJ Vision Display Messages/Write WorkDir Msg/Write WorkDir Msg.lvclass"/>
 	</Item>
 	<Item Name="HIJ Vision Display.lvclass" Type="LVClass" URL="../HIJ Vision Display/HIJ Vision Display.lvclass"/>

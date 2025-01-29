@@ -6,7 +6,6 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
-		<Item Name="After Launch Init Msg.lvclass" Type="LVClass" URL="../HIJ Vision Application Messages/After Launch Init Msg/After Launch Init Msg.lvclass"/>
 		<Item Name="Analyze Image Msg.lvclass" Type="LVClass" URL="../HIJ Vision Application Messages/Analyze Image Msg/Analyze Image Msg.lvclass"/>
 		<Item Name="Save Image Msg.lvclass" Type="LVClass" URL="../HIJ Vision Application Messages/Save Image Msg/Save Image Msg.lvclass"/>
 		<Item Name="Set Parameter Msg.lvclass" Type="LVClass" URL="../HIJ Vision Application Messages/Set Parameter Msg/Set Parameter Msg.lvclass"/>

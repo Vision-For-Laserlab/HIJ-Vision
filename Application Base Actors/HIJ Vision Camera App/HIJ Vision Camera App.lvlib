@@ -14,7 +14,6 @@
 		<Item Name="Set BG Image Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Set BG Image Msg/Set BG Image Msg.lvclass"/>
 		<Item Name="Start Aquisition Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Start Aquisition Msg/Start Aquisition Msg.lvclass"/>
 		<Item Name="Stop Aquisition Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Stop Aquisition Msg/Stop Aquisition Msg.lvclass"/>
-		<Item Name="Write ConfigDir Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Write ConfigDir Msg/Write ConfigDir Msg.lvclass"/>
 		<Item Name="Write Save Images cont Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Write Save Images cont Msg/Write Save Images cont Msg.lvclass"/>
 	</Item>
 	<Item Name="HIJ Vision Camera App.lvclass" Type="LVClass" URL="../HIJ Vision Camera App/HIJ Vision Camera App.lvclass"/>

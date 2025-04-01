@@ -11,6 +11,7 @@
 		<Item Name="Set Parameter Msg.lvclass" Type="LVClass" URL="../HIJ Vision Application Messages/Set Parameter Msg/Set Parameter Msg.lvclass"/>
 		<Item Name="Set Result Settings Msg.lvclass" Type="LVClass" URL="../HIJ Vision Application Messages/Set Result Settings Msg/Set Result Settings Msg.lvclass"/>
 		<Item Name="Update Static Overlays Msg.lvclass" Type="LVClass" URL="../HIJ Vision Application Messages/Update Static Overlays Msg/Update Static Overlays Msg.lvclass"/>
+		<Item Name="Write ConfigDir Msg.lvclass" Type="LVClass" URL="../HIJ Vision Application Messages/Write ConfigDir Msg/Write ConfigDir Msg.lvclass"/>
 		<Item Name="Write Image Prefix Msg.lvclass" Type="LVClass" URL="../HIJ Vision Application Messages/Write Image Prefix Msg/Write Image Prefix Msg.lvclass"/>
 		<Item Name="Write WorkDir Msg.lvclass" Type="LVClass" URL="../HIJ Vision Application Messages/Write WorkDir Msg/Write WorkDir Msg.lvclass"/>
 	</Item>

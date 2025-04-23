@@ -10,6 +10,8 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Camera Quick Settings Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Camera Quick Settings Msg/Camera Quick Settings Msg.lvclass"/>
 		<Item Name="Change Camera Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Change Camera Msg/Change Camera Msg.lvclass"/>
+		<Item Name="Load BG Image from File by Name Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Load BG Image from File by Name Msg/Load BG Image from File by Name Msg.lvclass"/>
+		<Item Name="Load BG Image from File Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Load BG Image from File Msg/Load BG Image from File Msg.lvclass"/>
 		<Item Name="Open Camera Quick Settings Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Open Camera Quick Settings Msg/Open Camera Quick Settings Msg.lvclass"/>
 		<Item Name="Set BG Image Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Set BG Image Msg/Set BG Image Msg.lvclass"/>
 		<Item Name="Start Aquisition Msg.lvclass" Type="LVClass" URL="../HIJ Vision Camera App Messages/Start Aquisition Msg/Start Aquisition Msg.lvclass"/>

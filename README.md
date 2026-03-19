@@ -1,6 +1,6 @@
 # HIJ-Vision
 That is a LabVIEW Vision library designed for the needs of a laser lab. It based on LabVIEW actor framework. (Still to add some remarks about actor ansatz..) 
-Please read the [LV AF whitepaper] (https://www.ni.com/de-de/shop/labview/ni-labview-virtual-user-group--introduction-to-actor-framework.html)
+Please read the [Actor Framework whitepaper](https://www.ni.com/de-de/shop/labview/ni-labview-virtual-user-group--introduction-to-actor-framework.html)
 first. The actors communicate via messages in asynchronous way.
 HIJ-V contains four parts:
 - Camera driver actor based on IMAQdx
